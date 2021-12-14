@@ -1,6 +1,6 @@
 # auto-register-k8s-cluster-rms
 
-This yaml-file helps to avoid manually adding k3s clusters into the Rancher Management Server via the web-gui. <br >
+This yaml-file helps to avoid manually adding k3s clusters into the Rancher Management Server (RMS) via the web-gui. <br >
 The version of RMS is 2.6.2, k3s is v1.21.7+k3s1.
 
 Execute this yaml-file on existing k3s clusters. The cluster gets created in the RMS and automatically registered. <br >
