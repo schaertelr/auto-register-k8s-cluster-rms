@@ -1,0 +1,1 @@
+# auto-register-k8s-cluster-rms
