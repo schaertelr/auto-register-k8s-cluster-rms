@@ -7,6 +7,7 @@ When successful the cluster gets active and ready to get managed by the RMS.
 
 
 When auto-deploying k3s, add the yaml-file into /var/lib/rancher/k3s/server/manifests/ <br >
+Don't forget to chmod 600 for security reasons. <br >
 The file will get auto-executed as soon as the k3s cluster is up and running.
 When successful the cluster gets active and ready to get managed by the RMS.
 
