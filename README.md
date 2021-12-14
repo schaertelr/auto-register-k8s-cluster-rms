@@ -10,6 +10,6 @@ When successful the cluster is ready to get managed by the RMS.
 
 
 IMPORTANT: provide following values in the yaml-file: <br >
-  RANCHER_BEARER_TOKEN: "<your-token>"
-  RANCHER_HOSTNAME: "<your-RMS-FQDN>"
+  RANCHER_BEARER_TOKEN: "<your-token>" <br >
+  RANCHER_HOSTNAME: "<your-RMS-FQDN>" <br >
   CLUSTER_NAME: "<your-cluster-name>"
